@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-This repository shows the results of a dataset in a dashboard using visuals. file:///C:/Users/Jvill/OneDrive/Desktop/belly-button-challenge/index.html
+This repository shows the results of a dataset in a interactive dashboard with visualizations. 
 
 * Dashboard
   * Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
